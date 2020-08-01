@@ -18,3 +18,10 @@ We'll be answering the following questions along the way:
 
 - How can we attempt to predict future stock behavior?
 
+
+Links:
+Risk Analytics: 
+- https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.annotate.html 
+Moving Avarage:
+- https://www.investopedia.com/terms/m/movingaverage.asp
+- https://www.investopedia.com/articles/active-trading/052014/how-use-moving-average-buy-stocks.asp
